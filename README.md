@@ -1,2 +1,2 @@
 # JDA-CLI-Options-Pricer-Publish
-Rust CLI options pricer made by JohnDavid Abe 
+[Blog Post/Docs](https://www.johndcode.com/posts/Options-Pricer/)
