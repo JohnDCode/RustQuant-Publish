@@ -1,2 +1,2 @@
-# JDA-CLI-Options-Pricer-Publish
+# RustQuant-Publish
 [Blog Post/Docs](https://www.johndcode.com/posts/Options-Pricer/)
